@@ -1,0 +1,4 @@
+rootProject.name = 'nonstandard_grdl'
+include 'source'
+include 'properties'
+
